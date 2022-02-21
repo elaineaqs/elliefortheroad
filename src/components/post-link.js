@@ -13,7 +13,9 @@ const PostLink = ({ post }) => (
             {post.frontmatter.title}
           </Link>
         </h2>
-        {/* <div className="post-meta">{post.frontmatter.date}</div> */}
+        <div className="post-meta">
+          {/* {post.frontmatter.date} */}
+        </div>
       </header>
     </Link>
   </article>
