@@ -2,7 +2,7 @@
 template: BlogPost
 path: /seo
 date: 2020-02-21T10:03:00.000Z
-title: SEO for Creatives
+title: Search Engine Optimization (SEO) for Creatives
 metaDescription: >-
   Someone is looking for your creative genius! They are meant to find you and
   your creativity was meant for them too. Let me help you optimize your content
