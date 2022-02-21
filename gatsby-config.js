@@ -37,7 +37,7 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         // The property ID; the tracking code won't be generated without it. replace with yours
-        // trackingId: "UA-164743872-1",
+        trackingId: "UA-164743872-1",
         head: true,
       }
     },
@@ -47,8 +47,8 @@ module.exports = {
         name: `Delog GatbsyJS Starter`,
         short_name: `Delog`,
         start_url: `/`,
-        background_color: `#ECDDFD`,
-        theme_color: `#E8CEFE`,
+        background_color: `#fff`,
+        theme_color: `#381696`,
         display: `standalone`,
         icon: "src/images/icon.png",
       },
