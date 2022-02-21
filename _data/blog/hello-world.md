@@ -2,7 +2,7 @@
 template: BlogPost
 path: /website
 date: 2022-02-21T09:04:00.000Z
-title: Web Design & Development
+title: Website Development for Coaches
 metaDescription: >-
   Do you know that feeling when you're good at something and that something is
   so easy and fun for you that you feel it's a disservice to be paid for it?
