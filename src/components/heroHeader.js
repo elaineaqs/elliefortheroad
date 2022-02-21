@@ -16,7 +16,7 @@ export default () => (
     `}
     render={data => (
       <div className="hero-header">
-        <div className="headline"><img alt="{data.site.siteMetadata.home.title}" src="/static/assets/logo.png" /></div>
+        <div className="headline">{data.site.siteMetadata.home.title}</div>
         <div 
           className="primary-content" 
           dangerouslySetInnerHTML={{ __html: data.site.siteMetadata.home.description}}
