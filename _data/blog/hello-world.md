@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /website
-date: 2020-02-20T07:08:53.137Z
+date: 2020-02-20T09:04:53.137Z
 title: Web Design & Development
 metaDescription: ''
 thumbnail: ''
