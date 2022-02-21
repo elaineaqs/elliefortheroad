@@ -7,15 +7,15 @@ const PostLink = ({ post }) => (
       {!!post.frontmatter.thumbnail && (
         <img src={post.frontmatter.thumbnail} alt={post.frontmatter.title + "- Featured Shot"} />
       )}
+      <header>
+        <h2 className="post-title">
+          <Link to={post.frontmatter.path} className="post-link">
+            {post.frontmatter.title}
+          </Link>
+        </h2>
+        {/* <div className="post-meta">{post.frontmatter.date}</div> */}
+      </header>
     </Link>
-    <header>
-      <h2 className="post-title">
-        <Link to={post.frontmatter.path} className="post-link">
-          {post.frontmatter.title}
-        </Link>
-      </h2>
-      <div className="post-meta">{post.frontmatter.date}</div>
-    </header>
   </article>
 )
 export default PostLink
