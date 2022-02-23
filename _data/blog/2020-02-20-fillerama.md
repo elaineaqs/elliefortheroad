@@ -23,7 +23,11 @@ See, I'm not just here to assist you. You can get that anywhere.
 
 What I'm really saying is I'm here to take your account and make it stick in people's minds and hearts.
 
-What we're getting at is you on social media as your most authentic self. It's time to be heard and seen. The world awaits your magic, creativity, and services.
+**What we're getting at is you on social media as your most authentic self.**
+
+It's time to be heard and seen.
+
+**The world awaits your magic, creativity, and services.**
 
 ## **Here's how it works:**
 
