@@ -40,3 +40,47 @@ That's how powerful your website can be.
 Share your voice.
 
 Content Creators, let's get to work!
+
+## Related work:
+
+GitLab repo, Github repo, Light Me Up USA
+
+## Here's how it works:
+
+1. Hop on a call if you want to; and/ or
+2. Choose how long you want to work together (short, medium, longer term)
+3. Payment and onboarding
+4. Working together and access to your customer dashboard
+5. Final hand off and offboarding, a beautiful farewell session ceremony (jk) 
+
+## This is for you if:
+
+* you are looking for someone who knows Web Development and will handle it with you
+* you want to offload Web Development tasks for a specific period of time
+* you care about being found, seen, and heard online 💜
+
+## This is NOT for you if:
+
+* you don't think Web Development services are necessary for your business or project
+* you want to do Web Development tasks yourself
+* you sell things that are unethical or harmful to anyone
+
+## What you get:
+
+* an website audit
+* a checklist of things to improve
+* services to help improve your website 
+* a customer dashboard
+* optional discovery or initial virtual meeting
+
+## Your investment:
+
+[Short Term (7 Days)](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-4SY050355N353493YMIJ4TCY)
+
+[Medium Term (30 days)](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-69E53909L9295980DMIJ434I)
+
+[](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-69E53909L9295980DMIJ434I)[Longer Term (60 days)](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-46X377003C284760EMIJ4V6Q)
+
+## FAQs
+
+1. Do you offer refunds? When services are not yet rendered, yes. Once work has started, no.
